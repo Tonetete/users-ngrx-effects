@@ -1,4 +1,6 @@
-# HttpEffects
+# User NgRx Effects
+
+A simple project to manipulate users using ngrx with effects.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
 
